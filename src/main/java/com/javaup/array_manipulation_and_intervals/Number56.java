@@ -1,4 +1,4 @@
-package com.javaup.array;
+package com.javaup.array_manipulation_and_intervals;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package com.javaup.array;
+package com.javaup.array_manipulation_and_intervals;
 
 public class Number283 {
 
