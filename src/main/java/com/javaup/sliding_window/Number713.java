@@ -19,7 +19,7 @@ public class Number713 {
                 prod /= nums[left];
                 left++;
             }
-            ans += right - left + 1;
+            ans += right - left + 1;// 统计所有“新出现的”、以位置 right 作为右端点的合法子数组。
         }
         return ans;
     }
