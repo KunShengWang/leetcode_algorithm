@@ -50,7 +50,7 @@
 - [x] [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) — 最长无重复窗口
 - [x] [438. 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) — 定长频率窗口
 
-## 4. 子串与连续区间（0 / 3）
+## 4. 子串与连续区间（3 / 3）
 
 识别信号：连续区间计数、恰好和为 K、固定窗口极值、覆盖目标字符。
 
@@ -58,9 +58,9 @@
 
 边界重点：前缀和哈希表先放入 `0 -> 1`；队首元素是否过期；覆盖计数是字符种类还是字符数量。
 
-- [ ] [560. 和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/) — 前缀和 + 哈希计数
-- [ ] [239. 滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/) — 单调队列
-- [ ] [76. 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) — 覆盖型滑动窗口
+- [x] [560. 和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/) — 前缀和 + 哈希计数
+- [x] [239. 滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/) — 单调队列
+- [x] [76. 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) — 覆盖型滑动窗口
 
 ## 5. 普通数组与区间（4 / 5）
 
